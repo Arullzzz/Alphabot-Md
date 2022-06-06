@@ -20,7 +20,7 @@ global.autoread = true // auto read pesan / message
 // Other
 global.botname = "ArullBotzMD" //namabot kalian
 global.ownername= "ArullOfc ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
+global.myweb ="https://instagram.com/sahrulwara_____" //bebas asal jan hapus
 global.youtube = "https://instagram.com/sahrulwara_____" //bebas asal jan hapus
 global.github = "https://github.com/Arullwara" //bebas
 global.email = "sahrulwara62@gmail.com" //bebas
